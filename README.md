@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wang1365，full stack developer
+- 👋 Hi, I’m @wang1365，a full stack developer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React/NextJs?Nuxt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... God knows~
 
 <!---
 wang1365/wang1365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
