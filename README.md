@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React/NextJs?Nuxt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... God knows~
+- 📫 How to reach me ... WE'LL SEE
 
 <!---
 wang1365/wang1365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
